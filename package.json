@@ -1,7 +1,7 @@
 {
   "name": "regeneratorify-standalone",
-  "version": "0.0.1",
-  "description": "browserify transform for the regenerator library (doesn't include regenrator runtime)",
+  "version": "0.0.2",
+  "description": "DEPRECATED: use regeneratorify-no-runtime instead",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -21,6 +21,7 @@
     "ES6"
   ],
   "author": "Alberto Miorin <github@ululi.it>",
+  "contributors": ["Radford Smith <contact@radsmith.com>"],
   "license": "BSD-2-Clause",
   "dependencies": {
     "regenerator": "~0.2.5",
